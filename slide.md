@@ -1,5 +1,9 @@
 class: center, middle
 
+# 蕎麦くって半袖。
+
+---
+
 # GitHubとPull Request ハンズオン
 
 ### エフスタ!!「あなたも恋する♡GitHub勉強会」
